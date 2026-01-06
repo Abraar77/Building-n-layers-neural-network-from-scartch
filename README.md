@@ -4,6 +4,8 @@
 
 This repository contains a fully vectorized implementation of an N-layer (deep) neural network built from scratch using NumPy only, without relying on deep learning frameworks such as TensorFlow, PyTorch, or Keras.
 
+The code is beginner friendly so every one can understand and benifit from it, only you need is a math
+
 The project generalizes a 2-layer neural network to arbitrary depth, demonstrating a clear understanding of forward propagation, backpropagation, and gradient descent across multiple layers.
 
 📌 Model Architecture (Generalized)
